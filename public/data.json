@@ -1,0 +1,227 @@
+[
+    {
+      "id": "63823d6c9e1989647ef4f128",
+      "index": 0,
+      "guid": "ae3726f7-f166-4d9e-bdbd-0c45d3acf4c3",
+      "isActive": true,
+      "balance": "$3,449.42",
+      "picture": "http://placehold.it/32x32",
+      "age": 21,
+      "eyeColor": "brown",
+      "name": "Jessica Miller",
+      "gender": "female",
+      "company": "DATAGEN",
+      "email": "jessicamiller@datagen.com",
+      "phone": "+1 (941) 570-3088",
+      "address": "127 College Place, Englevale, West Virginia, 8711",
+      "about": "Qui sint et est duis dolore ullamco labore laborum quis non. Eu ea laborum laboris voluptate mollit. Deserunt culpa excepteur amet excepteur qui minim ex mollit sunt. Pariatur amet nostrud sint aliquip esse pariatur sunt irure anim ut esse. Anim proident ex culpa do ea consectetur cillum ad ex nisi consectetur quis. Excepteur do nostrud esse amet consectetur anim do deserunt cupidatat ex aliqua aute. Ut laborum voluptate esse cillum consectetur.\r\n",
+      "registered": "2020-02-23T06:38:25 -06:00",
+      "latitude": 75.860863,
+      "longitude": -109.697053,
+      "tags": [
+        "qui",
+        "ea",
+        "et",
+        "est",
+        "est",
+        "consectetur",
+        "deserunt"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Cantrell Horne"
+        },
+        {
+          "id": 1,
+          "name": "Johns Ellison"
+        },
+        {
+          "id": 2,
+          "name": "Fern Buckley"
+        }
+      ],
+      "greeting": "Hello, Jessica Miller! You have 3 unread messages.",
+      "favoriteFruit": "apple"
+    },
+    {
+      "id": "63823d6c3970e1630dad3c37",
+      "index": 1,
+      "guid": "527b8e38-550b-4e70-8f86-9dd90d5917fa",
+      "isActive": true,
+      "balance": "$1,023.14",
+      "picture": "http://placehold.it/32x32",
+      "age": 31,
+      "eyeColor": "green",
+      "name": "Clayton Salas",
+      "gender": "male",
+      "company": "NORALEX",
+      "email": "claytonsalas@noralex.com",
+      "phone": "+1 (915) 444-3659",
+      "address": "712 Douglass Street, Vienna, Oregon, 1951",
+      "about": "Nostrud officia adipisicing pariatur laboris nulla. Dolor esse mollit sint incididunt laboris dolore. Consequat aute nostrud est deserunt incididunt laboris anim. Tempor eiusmod et ad consectetur deserunt occaecat ullamco laborum qui ea ut in mollit sunt.\r\n",
+      "registered": "2022-10-21T12:27:45 -06:00",
+      "latitude": -62.836086,
+      "longitude": 95.845633,
+      "tags": [
+        "cupidatat",
+        "commodo",
+        "tempor",
+        "non",
+        "irure",
+        "commodo",
+        "eiusmod"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Barrett Hill"
+        },
+        {
+          "id": 1,
+          "name": "Henry Dale"
+        },
+        {
+          "id": 2,
+          "name": "Laura Delacruz"
+        }
+      ],
+      "greeting": "Hello, Clayton Salas! You have 6 unread messages.",
+      "favoriteFruit": "apple"
+    },
+    {
+      "id": "63823d6c3fa9062a0205b9a3",
+      "index": 2,
+      "guid": "d18a4169-73e3-405b-a629-b84a9dad8b6e",
+      "isActive": false,
+      "balance": "$3,545.83",
+      "picture": "http://placehold.it/32x32",
+      "age": 33,
+      "eyeColor": "blue",
+      "name": "Nunez Hart",
+      "gender": "male",
+      "company": "PHEAST",
+      "email": "nunezhart@pheast.com",
+      "phone": "+1 (837) 524-3804",
+      "address": "472 Schermerhorn Street, Cannondale, New Mexico, 3916",
+      "about": "Do aute quis ea consectetur mollit adipisicing ullamco do. Ut duis ut id quis do minim incididunt ex minim quis exercitation sint. Laborum commodo proident incididunt mollit ut commodo incididunt est eu ad officia. Sint labore velit consectetur excepteur et exercitation. Incididunt cupidatat pariatur commodo commodo tempor. Pariatur aliquip in eu nulla aute non ea pariatur irure aliqua.\r\n",
+      "registered": "2018-12-26T12:59:27 -06:00",
+      "latitude": 43.755546,
+      "longitude": 44.430757,
+      "tags": [
+        "et",
+        "irure",
+        "ut",
+        "mollit",
+        "adipisicing",
+        "aliquip",
+        "velit"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Ruth Griffith"
+        },
+        {
+          "id": 1,
+          "name": "Cheryl Mendoza"
+        },
+        {
+          "id": 2,
+          "name": "Mallory Robinson"
+        }
+      ],
+      "greeting": "Hello, Nunez Hart! You have 2 unread messages.",
+      "favoriteFruit": "banana"
+    },
+    {
+      "id": "63823d6cc9801a6f4fe075f0",
+      "index": 3,
+      "guid": "4edafe4d-429b-4eb2-8159-621b409689b0",
+      "isActive": true,
+      "balance": "$3,310.82",
+      "picture": "http://placehold.it/32x32",
+      "age": 23,
+      "eyeColor": "green",
+      "name": "Deloris Bright",
+      "gender": "female",
+      "company": "ICOLOGY",
+      "email": "delorisbright@icology.com",
+      "phone": "+1 (926) 411-3715",
+      "address": "731 Madeline Court, Westerville, Indiana, 488",
+      "about": "Dolore ipsum qui ea duis et labore ea id tempor. Fugiat amet nulla ad ex ipsum minim ad veniam tempor sunt. Tempor enim tempor do tempor fugiat in eu minim aliquip.\r\n",
+      "registered": "2017-05-11T02:47:44 -06:00",
+      "latitude": 38.060113,
+      "longitude": 17.867775,
+      "tags": [
+        "nulla",
+        "dolor",
+        "reprehenderit",
+        "labore",
+        "ullamco",
+        "in",
+        "duis"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Jody Richard"
+        },
+        {
+          "id": 1,
+          "name": "Felicia Schneider"
+        },
+        {
+          "id": 2,
+          "name": "Pate Vaughn"
+        }
+      ],
+      "greeting": "Hello, Deloris Bright! You have 4 unread messages.",
+      "favoriteFruit": "banana"
+    },
+    {
+      "id": "63823d6c3df08d67f08295d0",
+      "index": 4,
+      "guid": "e7ba452d-b45e-45f6-8f7c-c3770a93dea2",
+      "isActive": false,
+      "balance": "$2,093.06",
+      "picture": "http://placehold.it/32x32",
+      "age": 31,
+      "eyeColor": "brown",
+      "name": "Stone Floyd",
+      "gender": "male",
+      "company": "EQUITAX",
+      "email": "stonefloyd@equitax.com",
+      "phone": "+1 (973) 585-2065",
+      "address": "666 Prospect Street, Mulino, Palau, 3867",
+      "about": "Laborum nisi labore adipisicing reprehenderit irure dolor veniam ut anim aliqua commodo id ex aliquip. Lorem proident exercitation do ullamco cillum nulla duis. Pariatur ad veniam officia ex occaecat commodo nulla occaecat minim minim ad elit pariatur. Ea magna officia irure velit enim non non. Consectetur aute est consequat dolore consectetur aute culpa. Laborum cillum sit eiusmod esse eiusmod minim aute aliquip Lorem et mollit non tempor.\r\n",
+      "registered": "2022-10-20T08:57:35 -06:00",
+      "latitude": 8.280292,
+      "longitude": 61.03793,
+      "tags": [
+        "cupidatat",
+        "Lorem",
+        "magna",
+        "ad",
+        "laboris",
+        "commodo",
+        "sit"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Hilary Fry"
+        },
+        {
+          "id": 1,
+          "name": "Mays Strickland"
+        },
+        {
+          "id": 2,
+          "name": "Charmaine Emerson"
+        }
+      ],
+      "greeting": "Hello, Stone Floyd! You have 1 unread messages.",
+      "favoriteFruit": "strawberry"
+    }
+  ]
